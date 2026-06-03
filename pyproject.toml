@@ -1,0 +1,5 @@
+[project]
+name = "housing-atlas"
+version = "0.1.0"
+description = "Vendor contract management environment"
+requires-python = ">=3.9"
